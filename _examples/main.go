@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/flyaways/c/simplelru"
 	lru "github.com/flyaways/golang-lru"
+	"github.com/flyaways/golang-lru/simplelru"
 	server "github.com/flyaways/lru-server"
 	"github.com/gin-gonic/gin"
 )

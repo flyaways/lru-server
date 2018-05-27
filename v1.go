@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"unsafe"
 
-	"github.com/flyaways/c/simplelru"
+	"github.com/flyaways/golang-lru/simplelru"
 	"github.com/gin-gonic/gin"
 )
 
