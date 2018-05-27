@@ -77,6 +77,9 @@ func main() {
 ```
 
 
+[![asciicast](https://asciinema.org/a/14.png)](https://asciinema.org/a/ffxLeEp4Vq9eUkDZxF3uqT0EM?autoplay=1)
+
+
 ## Lisence
 
 * [Apache License 2.0](https://raw.githubusercontent.com/flyaways/log/master/LICENSE)
