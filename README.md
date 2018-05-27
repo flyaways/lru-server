@@ -78,7 +78,7 @@ func main() {
 
 The Output
 
-[![asciinema](https://asciinema.org/a/113463.png)](https://asciinema.org/a/ffxLeEp4Vq9eUkDZxF3uqT0EM?autoplay=1)
+[![asciinema](https://asciinema.org/a/ffxLeEp4Vq9eUkDZxF3uqT0EM.png)](https://asciinema.org/a/ffxLeEp4Vq9eUkDZxF3uqT0EM?autoplay=1)
  
 ## Lisence
 
