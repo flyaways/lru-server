@@ -1,5 +1,11 @@
 # lru-server
+[![Go Report Card](https://goreportcard.com/badge/github.com/flyaways/lru-server?style=flat-square)](https://goreportcard.com/report/github.com/flyaways/lru-server)
+[![Build Status Travis](https://travis-ci.org/flyaways/lru-server.svg?branch=master)](https://travis-ci.org/flyaways/lru-server)
+[![Build Status Semaphore](https://semaphoreci.com/api/v1/flyaways/lru-server/branches/master/shields_badge.svg)](https://semaphoreci.com/flyaways/lru-server)
+[![LICENSE](https://img.shields.io/badge/licence-Apache%202.0-brightgreen.svg?style=flat-square)](https://github.com/flyaways/lru-server/blob/master/LICENSE)
 
+
+[![asciinema](https://asciinema.org/a/ffxLeEp4Vq9eUkDZxF3uqT0EM.png)](https://asciinema.org/a/ffxLeEp4Vq9eUkDZxF3uqT0EM?autoplay=1)
 
 # Example
 
@@ -75,10 +81,6 @@ func main() {
 }
 
 ```
-
-The Output
-
-[![asciinema](https://asciinema.org/a/ffxLeEp4Vq9eUkDZxF3uqT0EM.png)](https://asciinema.org/a/ffxLeEp4Vq9eUkDZxF3uqT0EM?autoplay=1)
  
 ## Lisence
 
